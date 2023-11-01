@@ -1,0 +1,2 @@
+productno	,ProductName	, Quantity
+, Price	3	steelbottle	25	120	4	6teacupset	35	420	
